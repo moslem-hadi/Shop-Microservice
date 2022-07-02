@@ -25,6 +25,7 @@ namespace Products.Api.Infrastructure
                 option.UseNpgsql(builder.Configuration.GetConnectionString("ProductDbConn")));
             builder.Services.AddScoped<IWriteUnitOfWork, WriteUnitOfWork>();
             builder.Services.AddScoped<IReadUnitOfWork, ReadUnitOfWork>();
+            builder.Services.AddAutoMapper(Assemblies.InfrastructureAssembly);
 
             return builder.Services;
         }
