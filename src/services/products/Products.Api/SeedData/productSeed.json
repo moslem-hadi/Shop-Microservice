@@ -1,0 +1,101 @@
+[
+  {
+    "Id": 7304,
+    "Active": true,
+    "Title": "commodo laborum incididunt",
+    "Description": "Consectetur occaecat non aliquip amet cillum. Excepteur cupidatat pariatur magna commodo laboris consectetur labore minim adipisicing non. Amet cillum consectetur in aute nulla consectetur minim qui. Aute deserunt et ad duis nisi mollit sunt consectetur ut. Eu quis dolore magna aute et ullamco occaecat non commodo ullamco. Elit do amet nostrud exercitation reprehenderit ut excepteur magna est aliqua.\r\n",
+    "CategoryId": 1,
+    "Link": "ea",
+    "Code": "consequat",
+    "Price": 644,
+    "ImageUrl": "https://via.placeholder.com/300x250.png"
+  },
+  {
+    "Id": 2630,
+    "Active": true,
+    "Title": "sint cupidatat deserunt",
+    "Description": "Sint culpa culpa reprehenderit dolore ad sit quis reprehenderit eiusmod consectetur eiusmod dolor nulla. Ullamco ut commodo Lorem labore ad ex officia esse cupidatat nostrud proident pariatur laboris. Nisi esse sint fugiat nulla do mollit elit aliqua in.\r\n",
+    "CategoryId": 2,
+    "Link": "ullamco",
+    "Code": "adipisicing",
+    "Price": 335,
+    "ImageUrl": "https://via.placeholder.com/300x250.png"
+  },
+  {
+    "Id": 7504,
+    "Active": true,
+    "Title": "ea cillum nisi",
+    "Description": "Culpa commodo irure aute dolor minim sit adipisicing. Ea culpa dolore velit pariatur adipisicing ad consectetur consequat ut. Ex cillum esse esse enim deserunt do non quis consectetur laborum amet sit incididunt sunt. Reprehenderit et amet non aliqua deserunt consequat ullamco consectetur consectetur tempor aliquip cillum dolore.\r\n",
+    "CategoryId": 4,
+    "Link": "ut",
+    "Code": "ipsum",
+    "Price": 856,
+    "ImageUrl": "https://via.placeholder.com/300x250.png"
+  },
+  {
+    "Id": 6342,
+    "Active": false,
+    "Title": "nostrud Lorem voluptate",
+    "Description": "Occaecat elit occaecat quis fugiat consequat elit non consequat culpa laborum veniam nulla. Ex exercitation excepteur occaecat nulla incididunt veniam anim cupidatat sunt id consectetur. Sunt occaecat consequat cupidatat laborum cupidatat.\r\n",
+    "CategoryId": 5,
+    "Link": "ipsum",
+    "Code": "ipsum",
+    "Price": 162,
+    "ImageUrl": "https://via.placeholder.com/300x250.png"
+  },
+  {
+    "Id": 7399,
+    "Active": false,
+    "Title": "deserunt quis cupidatat",
+    "Description": "Veniam non occaecat elit occaecat ut ea labore nostrud eu eiusmod ipsum. Aliqua anim irure est qui mollit pariatur deserunt non tempor. Laborum veniam esse ad nulla officia deserunt veniam. Ex culpa in non consequat irure.\r\n",
+    "CategoryId": 6,
+    "Link": "Lorem",
+    "Code": "dolor",
+    "Price": 503,
+    "ImageUrl": "https://via.placeholder.com/300x250.png"
+  },
+  {
+    "Id": 3269,
+    "Active": true,
+    "Title": "aliquip nulla nulla",
+    "Description": "Aliquip consequat aliquip mollit nostrud ut minim elit id in voluptate quis voluptate quis. Elit reprehenderit nisi elit dolor cupidatat deserunt anim. Fugiat incididunt nulla laboris reprehenderit proident id reprehenderit laborum reprehenderit pariatur ea fugiat.\r\n",
+    "CategoryId": 5,
+    "Link": "labore",
+    "Code": "sint",
+    "Price": 790,
+    "ImageUrl": "https://via.placeholder.com/300x250.png"
+  },
+  {
+    "Id": 9859,
+    "Active": false,
+    "Title": "reprehenderit officia fugiat",
+    "Description": "Amet sint nostrud nisi commodo tempor dolore proident non ullamco. Anim tempor Lorem magna officia irure exercitation Lorem Lorem id. Sunt consequat cillum eu deserunt consequat velit consectetur irure incididunt aliquip mollit elit culpa duis. Cupidatat consectetur aute officia incididunt elit sunt pariatur cillum occaecat velit qui qui ut est. Dolor est commodo laboris irure quis excepteur pariatur ad id exercitation labore. Eu non dolor in aliqua consequat dolor consequat excepteur magna minim aliquip magna. Proident consequat sint ad eiusmod elit dolore et velit.\r\n",
+    "CategoryId": 6,
+    "Link": "labore",
+    "Code": "qui",
+    "Price": 123,
+    "ImageUrl": "https://via.placeholder.com/300x250.png"
+  },
+  {
+    "Id": 3641,
+    "Active": true,
+    "Title": "Lorem elit nostrud",
+    "Description": "Nisi tempor excepteur labore cillum consequat esse laboris cupidatat laboris. Eiusmod ut sit ex est. Velit eu nisi Lorem nisi sunt pariatur tempor enim deserunt.\r\n",
+    "CategoryId": 6,
+    "Link": "mollit",
+    "Code": "veniam",
+    "Price": 815,
+    "ImageUrl": "https://via.placeholder.com/300x250.png"
+  },
+  {
+    "Id": 7139,
+    "Active": false,
+    "Title": "ea laborum duis",
+    "Description": "Tempor elit cillum tempor ea amet cupidatat cupidatat velit elit incididunt enim aliquip. Sunt ex dolor ipsum tempor aliqua laborum anim nisi veniam aliqua eu. Ut mollit fugiat dolor dolor eu proident qui ea amet in mollit ea in. Magna quis ex consectetur quis ex in magna excepteur voluptate ea aute labore incididunt. Qui aliquip culpa sint dolor ut cupidatat exercitation dolor nostrud minim eu tempor. Cupidatat cupidatat adipisicing laborum ea qui aute qui dolore sint in velit pariatur officia. Adipisicing et cillum aliqua nulla voluptate duis non tempor quis duis sunt ex.\r\n",
+    "CategoryId": 1,
+    "Link": "exercitation",
+    "Code": "consequat",
+    "Price": 980,
+    "ImageUrl": "https://via.placeholder.com/300x250.png"
+  }
+]
