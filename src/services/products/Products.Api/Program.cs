@@ -1,8 +1,9 @@
-using Products.Api.Infraftracture;
+using Products.Api.Infrastructure;
 
 var builder = WebApplication.CreateBuilder(args);
 
 builder.AddServices();
+builder.AddInfrastructureServices();
 
 var app = builder.Build();
 
