@@ -1,0 +1,112 @@
+[
+  {
+    "id": 1,
+    "Active": false,
+    "title": "veniam",
+    "description": "Aliqua consequat labore elit eiusmod nostrud laborum consequat. Consectetur laborum adipisicing duis ad nulla enim. Esse magna adipisicing fugiat aliqua ea commodo quis anim laboris aliqua fugiat ad. Dolore elit pariatur qui excepteur culpa sit aliqua ea Lorem. Sunt laborum ut sunt cillum reprehenderit do qui nisi.\r\n",
+    "parentCategoryId": null,
+    "link": "qui",
+    "code": "nulla",
+    "bannerUrl": "https://via.placeholder.com/500x200.png",
+    "priority": 1
+  },
+  {
+    "id": 2,
+    "Active": false,
+    "title": "proident",
+    "description": "Ut laborum ex laboris do anim adipisicing in adipisicing ea aliquip. In incididunt occaecat do incididunt id sunt eiusmod ut ipsum veniam cupidatat ullamco. Amet non aute cupidatat duis veniam veniam proident in.\r\n",
+    "parentCategoryId": null,
+    "link": "magna",
+    "code": "magna",
+    "bannerUrl": "https://via.placeholder.com/500x200.png",
+    "priority": 5
+  },
+  {
+    "id": 3,
+    "Active": true,
+    "title": "sunt",
+    "description": "Fugiat dolor qui duis non enim cupidatat eu exercitation Lorem non commodo incididunt ullamco commodo. In tempor ad cillum ad. Id elit aute fugiat nulla pariatur laborum. Nisi sit eiusmod do laborum ex officia duis Lorem aliqua. Tempor magna ipsum nostrud amet labore.\r\n",
+    "parentCategoryId": null,
+    "link": "eiusmod",
+    "code": "sint",
+    "bannerUrl": "https://via.placeholder.com/500x200.png",
+    "priority": 2
+  },
+  {
+    "id": 4,
+    "Active": true,
+    "title": "aute",
+    "description": "Consectetur adipisicing ex pariatur ex aliquip eu occaecat nulla est. Nostrud voluptate mollit ad duis nulla ullamco laboris. Cillum quis qui minim veniam amet ad laboris exercitation amet. Et cillum fugiat officia in labore aliquip tempor occaecat. Anim ut fugiat nisi sit enim. Adipisicing consectetur elit non eu adipisicing.\r\n",
+    "parentCategoryId": null,
+    "link": "voluptate",
+    "code": "labore",
+    "bannerUrl": "https://via.placeholder.com/500x200.png",
+    "priority": 7
+  },
+  {
+    "id": 5,
+    "Active": false,
+    "title": "occaecat",
+    "description": "Anim amet esse adipisicing ut nostrud Lorem exercitation anim anim. Excepteur aliqua qui eu sint cillum consequat quis irure. Dolor amet reprehenderit nulla sunt velit occaecat est. Nisi ut ipsum pariatur reprehenderit.\r\n",
+    "parentCategoryId": null,
+    "link": "qui",
+    "code": "fugiat",
+    "bannerUrl": "https://via.placeholder.com/500x200.png",
+    "priority": 9
+  },
+  {
+    "id": 6,
+    "Active": false,
+    "title": "do",
+    "description": "Aliquip quis aute occaecat proident magna et excepteur. Consectetur magna ut Lorem ut excepteur labore ipsum. Laborum veniam do sunt cupidatat anim mollit exercitation esse consequat excepteur duis excepteur.\r\n",
+    "parentCategoryId": null,
+    "link": "ipsum",
+    "code": "esse",
+    "bannerUrl": "https://via.placeholder.com/500x200.png",
+    "priority": 4
+  },
+  {
+    "id": 7,
+    "Active": true,
+    "title": "laborum",
+    "description": "Amet tempor ex fugiat velit aliquip id commodo eiusmod ad eiusmod aute anim. Exercitation incididunt est duis esse ex Lorem ea nulla anim est labore cupidatat aute. Ea ipsum id reprehenderit esse veniam velit magna aute laboris consectetur tempor occaecat. Incididunt officia laborum incididunt laboris.\r\n",
+    "parentCategoryId": 2,
+    "link": "enim",
+    "code": "aliquip",
+    "bannerUrl": "https://via.placeholder.com/500x200.png",
+    "priority": 10
+  },
+  {
+    "id": 8,
+    "Active": false,
+    "title": "tempor",
+    "description": "Lorem ipsum deserunt pariatur sunt incididunt reprehenderit enim et consectetur nulla sunt. Officia eiusmod culpa deserunt non aliquip laboris in laborum ullamco est dolore in esse. Aliquip qui dolor in irure excepteur et sunt ea duis proident aliqua adipisicing sint. Mollit sit et do excepteur.\r\n",
+    "parentCategoryId": 2,
+    "link": "do",
+    "code": "nostrud",
+    "bannerUrl": "https://via.placeholder.com/500x200.png",
+    "priority": 7
+  },
+  {
+    "id": 9,
+    "Active": false,
+    "title": "consectetur",
+    "description": "Lorem ipsum deserunt pariatur sunt incididunt reprehenderit enim et consectetur nulla sunt. Officia eiusmod culpa deserunt non aliquip laboris in laborum ullamco est dolore in esse. Aliquip qui dolor in irure excepteur et sunt ea duis proident aliqua adipisicing sint. Mollit sit et do excepteur.\r\n",
+    "parentCategoryId": 2,
+    "link": "do",
+    "code": "nostrud",
+    "bannerUrl": "https://via.placeholder.com/500x200.png",
+    "priority": 7
+  },
+  {
+    "id": 10,
+    "Active": false,
+    "title": "Non commodo",
+    "description": "Lorem ipsum deserunt pariatur sunt incididunt reprehenderit enim et consectetur nulla sunt. Officia eiusmod culpa deserunt non aliquip laboris in laborum ullamco est dolore in esse. Aliquip qui dolor in irure excepteur et sunt ea duis proident aliqua adipisicing sint. Mollit sit et do excepteur.\r\n",
+    "parentCategoryId": 3,
+    "link": "do",
+    "code": "nostrud",
+    "bannerUrl": "https://via.placeholder.com/500x200.png",
+    "priority": 7
+  }
+]
