@@ -13,6 +13,8 @@ namespace Products.Infrastructure.Products
         public ProductMappingProfile()
         {
             CreateMap<Product, ProductReqDto>().ReverseMap();
+
+            //Custom mapping
             CreateMap<Product, ProductResDto>().ForMember(dest => dest.CategoryTitle_Id,
                 config =>
                     config.MapFrom(src => $"{src.Category.Title}({src.CategoryId})")).ReverseMap();

@@ -1,4 +1,5 @@
-﻿using Microsoft.EntityFrameworkCore;
+﻿using MediatR;
+using Microsoft.EntityFrameworkCore;
 using Products.Domain;
 using Products.Infrastructure;
 using System.Text.Json.Serialization;
@@ -27,6 +28,12 @@ namespace Products.Api.Infrastructure
             builder.Services.AddScoped<IReadUnitOfWork, ReadUnitOfWork>();
             builder.Services.AddAutoMapper(Assemblies.InfrastructureAssembly);
 
+            return builder.Services;
+        }
+
+        public static IServiceCollection AddApplicationServices(this WebApplicationBuilder builder)
+        {
+            builder.Services.AddMediatR(Assemblies.ApplicationAssembly);
             return builder.Services;
         }
     }
