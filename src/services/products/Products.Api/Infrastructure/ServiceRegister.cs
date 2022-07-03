@@ -1,5 +1,7 @@
-﻿using MediatR;
+﻿using FluentValidation;
+using MediatR;
 using Microsoft.EntityFrameworkCore;
+using Products.Application.Behaviours;
 using Products.Domain;
 using Products.Infrastructure;
 using System.Text.Json.Serialization;
@@ -33,7 +35,13 @@ namespace Products.Api.Infrastructure
 
         public static IServiceCollection AddApplicationServices(this WebApplicationBuilder builder)
         {
+            builder.Services.AddValidatorsFromAssemblies(new List<System.Reflection.Assembly> { Assemblies.ApplicationAssembly});
             builder.Services.AddMediatR(Assemblies.ApplicationAssembly);
+
+            //for exception throwing
+            builder.Services.AddTransient(typeof(IPipelineBehavior<,>), typeof(UnhandledExceptionBehaviour<,>));
+            builder.Services.AddTransient(typeof(IPipelineBehavior<,>), typeof(ValidationBehaviour<,>));
+
             return builder.Services;
         }
     }
