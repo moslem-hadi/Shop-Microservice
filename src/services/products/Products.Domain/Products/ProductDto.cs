@@ -36,6 +36,6 @@ namespace Products.Domain
         public decimal? MaxPrice { get; set; }
         public int CategoryId { get; set; }
         public int PageIndex { get; set; }
-        public int PageSize { get; set; }
+        public int PageSize { get; set; } = 10;
     }
 }
