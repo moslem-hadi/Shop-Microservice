@@ -12,7 +12,7 @@
     "Products.Api": {
       "commandName": "Project",
       "launchBrowser": true,
-      "launchUrl": "swagger",
+      "launchUrl": "ui/graphql",
       "environmentVariables": {
         "ASPNETCORE_ENVIRONMENT": "Development"
       },
@@ -30,7 +30,7 @@
     "Docker": {
       "commandName": "Docker",
       "launchBrowser": true,
-      "launchUrl": "{Scheme}://{ServiceHost}:{ServicePort}/swagger",
+      "launchUrl": "{Scheme}://{ServiceHost}:{ServicePort}/ui/graphql",
       "publishAllPorts": true
     }
   }

@@ -1,6 +1,10 @@
 ﻿using FluentValidation;
+using GraphQL.Server;
 using MediatR;
 using Microsoft.EntityFrameworkCore;
+using Products.Api.GQL;
+using Products.Api.GQL.Mutations;
+using Products.Api.GQL.Queries;
 using Products.Application.Behaviours;
 using Products.Domain;
 using Products.Infrastructure;
@@ -19,6 +23,12 @@ namespace Products.Api.Infrastructure
             });
             builder.Services.AddEndpointsApiExplorer();
             builder.Services.AddSwaggerGen();
+
+            builder.Services.AddScoped<AppMutations>();
+            builder.Services.AddScoped<AppQueries>();
+            builder.Services.AddScoped<AppSchema>();
+
+            builder.Services.AddGraphQL().AddSystemTextJson();  
 
             return builder.Services;
         }
